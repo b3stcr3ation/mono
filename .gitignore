@@ -1,0 +1,7 @@
+*.BAK*
+
+.vscode/*
+
+*.code-workspace
+
+*.log
